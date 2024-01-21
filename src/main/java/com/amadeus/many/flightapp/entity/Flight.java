@@ -1,6 +1,6 @@
 package com.amadeus.many.flightapp.entity;
 
-import com.amadeus.many.flightapp.entity.Airport;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.Id;
